@@ -11,4 +11,11 @@ Indicadores Principais (KPIs)
 3. Receita ao longo do Tempo
 4. Top 5 Clientes por Receita
 
+Resultados Esperados:
+
+✅ Relatórios dinâmicos e interativos para análise financeira detalhada
+✅ Redução do tempo de geração de relatórios financeiros manuais
+✅ Melhor controle sobre receitas, despesas e fluxo de caixa
+✅ Identificação de tendências financeiras para tomada de decisões estratégicas
+
 ![image](https://github.com/user-attachments/assets/8f86114f-47f6-426b-be94-3a815026d46f)
