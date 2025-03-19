@@ -1,6 +1,7 @@
 # Dashboard Relatório Financeiro 
 
-Objetivo:
+Objetivo
+
 Criar um dashboard financeiro interativo no Power BI que forneça uma visão detalhada e analítica das finanças da empresa, permitindo a tomada de decisões estratégicas baseadas em dados.
 
 Indicadores Principais (KPIs)
