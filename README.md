@@ -32,6 +32,13 @@ Indicadores Principais (KPIs)
 2. Tempo Médio de Entrega
 3. Pedidos em Aberto
 4. Pedidos Entregues
-5. Pedidos em Atraso 
+5. Pedidos em Atraso
+
+Resultados Esperados:
+
+1. Melhoria na eficiência logística com redução de custos e prazos
+2. Otimização das rotas e ocupação da frota
+3. Redução de atrasos e aumento do índice de entregas no prazo
+4. Monitoramento proativo para melhor tomada de decisão
 
 ![image](https://github.com/user-attachments/assets/a6fbf1a9-c7a0-491a-99ea-fcf5c2874c51)
