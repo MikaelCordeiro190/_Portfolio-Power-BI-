@@ -42,3 +42,28 @@ Resultados Esperados:
 4. Monitoramento proativo para melhor tomada de decisão
 
 ![image](https://github.com/user-attachments/assets/a6fbf1a9-c7a0-491a-99ea-fcf5c2874c51)
+
+# Dashboard Relatório RH
+
+Objetivo
+
+Criar um relatório interativo de RH no Power BI para monitoramento dos principais indicadores de gestão de pessoas, proporcionando insights estratégicos para tomada de decisão, retenção de talentos e melhoria da produtividade.
+
+Indicadores Principais (KPIs)
+
+1. Total de Colaboradores Ativos e Turnover
+2. Tempo Médio de Permanência por Cargo e Departamento
+3. Custo Total de Mão de Obra (salários, benefícios, encargos
+4. Horas Trabalhadas vs. Horas Extras
+5. Diversidade e Inclusão (gênero, faixa etária, escolaridade)
+
+Resultados Esperados:
+
+1. Melhoria na gestão de talentos com ações estratégicas baseadas em dados
+2. Redução do turnover e aumento da retenção de colaboradores
+3. Análise preditiva para reduzir absenteísmo e aumentar produtividade
+4. Monitoramento contínuo da satisfação e engajamento dos funcionários
+
+   
+![image](https://github.com/user-attachments/assets/512de593-f7ab-4d05-baa8-17564ef66af4)
+
